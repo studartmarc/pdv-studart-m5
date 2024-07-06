@@ -2,7 +2,7 @@
 
 Este foi o resultado do Desafio do Módulo 5 da Cubos Academy, realizado de forma individual como condição para conclusão do Curso de Desenvolvimento de Software com Foco em Back-End. A avaliação final não teve correções e foi aprovada de forma imediata, com nota máxima. 
 
-Esta aplicação pode ser utilizada por qualquer ponto comercial, com necessidade apenas de uma integração Front-End para interação com o usuário. Todas as funcionalidades foram testadas com sucesso, incluindo banco de dados de usuários e produtos, upload de arquivos e imagens, envio de e-mail automático no momento do cadastro do usuário.
+Esta aplicação está de acordo com os conceitos de API RESTFul e pode ser utilizada por qualquer ponto comercial, com necessidade apenas de uma integração Front-End para interação com o usuário. Todas as funcionalidades foram testadas com sucesso, incluindo banco de dados de usuários e produtos, upload de arquivos e imagens, envio de e-mail automático no momento do cadastro do usuário.
 
 Você pode interagir com esta aplicação utilizando programas como Insomnia ou Postman, através do link https://funny-bikini-calf.cyclic.app/
 
